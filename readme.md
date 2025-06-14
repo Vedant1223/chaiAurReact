@@ -12,7 +12,7 @@ This repository serves as a practice workspace for learning and experimenting wi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/react-practice-workspace.git
+    git clone https://github.com/Vedant1223/react-practice-workspace.git
     ```
 2. Install dependencies:
     ```bash
